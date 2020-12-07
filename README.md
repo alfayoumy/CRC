@@ -1,2 +1,2 @@
-# crc
-Implementation of Cyclic Redundancy Check
+# Implementation of Cyclic Redundancy Check
+
